@@ -3,4 +3,4 @@
 Junior developer - I like to learn and develop apps that are interesting, form teams and have fun. I also like to do sports 🏋️🏐🚴.
 
 
-    const skills = ["Javascript" • "React" • "Node" • "MongoDB" • "MySQL/PostgreSQL" • "Firebase" • "TailwindCSS" • "HTML" • "CSS"]
+    const skills = ["Javascript" • "React" • "Node" • "MongoDB" • "MySQL/PostgreSQL" • "Firebase" • "TailwindCSS"]
